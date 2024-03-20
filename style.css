@@ -29,6 +29,7 @@
         width: 410px;
         height: 233px;
         margin-top: 65px;
+        overflow-x: hidden;
     }
 
     h1 {
